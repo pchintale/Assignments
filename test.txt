@@ -1,2 +1,6 @@
 hi world, how are you ?
+<<<<<<< HEAD
 Where are you???
+=======
+how are you doing ???
+>>>>>>> a95876a... second changes
